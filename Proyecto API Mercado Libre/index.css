@@ -1,0 +1,12 @@
+.container{
+  margin-top: 2em;
+}
+.busqueda{
+	justify-content: space-evenly;
+}
+.col.col-6.resultados{
+	border-right: 1px solid gray;
+}
+.primero{
+	border-left: 1px solid gray;
+} 
