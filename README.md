@@ -1,5 +1,4 @@
 # Proyecto-API-Mercado-Libre
 
-Este Proyecto mediante JavaScript Vanilla utilizando asincronismo le pega a una API de Mercado libre para traer busquedas de productos, 
-listarlos y por medio de un botón "Me gusta +1" se califica el mas gustado, esta información es guardada usando LocalStorage. 
-El titulo del mas gustado esta hecho con el patrón de diseño Observer
+Este Proyecto mediante JavaScript Vanilla utilizando promesas(asincronismo) le pega a una API de Mercado libre para traer busquedas de productos, listarlos y por medio de un botÃ³n "Me gusta +1" se califica el mas gustado, esta informaciÃ³n es guardada usando LocalStorage. 
+El titulo del mas gustado esta hecho con el patrÃ³n de diseÃ±o Observer y utilizo bootstrap.
